@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ae5887a6a114db8827e15e5e",
+  "owner": "wkyaxrbu",
+  "repo": "page-398207f6a165151c412b4776",
+  "title": "Fishmix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "398207f6a165151c412b4776",
+      "a": "Fishmix",
+      "b": "稳定全球clash加速器",
+      "entity": "Fishmix",
+      "brand": "Fishmix",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a3be4ef2fe19793dd2d43e96ff1bcbbacb36538619fee8e3ce913545b446a493",
+      "content": {
+        "primary_entity": "Fishmix",
+        "keyword1": "Fishmix",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按操作系统选择 Clash 客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端匹配设备系统",
+          "AI_CLOSING_TEXT": "选择适合设备数量的套餐，下载客户端并导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "Fishmix 让跨境连接更顺畅",
+          "AI_DESCRIPTION": "，以多种套餐、多设备支持和节点线路满足日常跨境浏览、流媒体解锁与游戏加速需求。基础版到团队版按流量与设备数量分层，方便个人、家庭及小型团队按需订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个维度梳理套餐差异。",
+          "AI_FEATURES_TITLE": "选择套餐前的实用参考",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，旗舰版300GB，团队版1000GB，按用量挑选。",
+          "AI_FEATURE_TEXT_2": "基础版3台，旗舰版5台，团队版20台，按同时在线设备数量匹配。",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速，团队版提供VIP高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量分层明确",
+          "AI_FEATURE_TITLE_2": "设备数按需选",
+          "AI_FEATURE_TITLE_3": "线路差异看用途",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "快速使用指引",
+          "AI_HERO_INTRO": "Fishmix 提供多种流量与设备数量的套餐，适配 Clash 客户端，可满足跨境浏览、流媒体解锁与游戏加速等日常场景。",
+          "AI_HERO_SUBTITLE": "多设备跨境加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数分层",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备同时在线",
+          "AI_PLANS_INTRO": "基础版月付15元，旗舰版月付35元，团队版月付85元，按年付均有优惠，可根据流量和设备需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容性，了解节点线路和解锁功能等适配要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照文档导入订阅地址并启用连接。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "Fishmix 加速器套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备；团队版每月 1000GB 流量、支持 20 台设备。按日常用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用建议直接选择年付方案。",
+          "AI_FAQ_ANSWER_3": "Windows 与 Android 可选用 Clash 或 V2Ray 客户端，iOS 与 macOS 可选用 Shadowrocket 等客户端。按设备系统选择对应版本，再导入订阅配置。",
+          "AI_FAQ_ANSWER_4": "可以。基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，同一订阅也可在多台个人设备上使用，按套餐设备数上限控制即可。",
+          "AI_FAQ_ANSWER_5": "旗舰版在常规节点之外提供 IPLC 专线并做游戏加速优化，同时附带 7x24 优先工单支持；团队版则提供 VIP 专属高带宽节点与定制路由选项。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Fishmix 各套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选，价格差多少？",
+          "AI_FAQ_QUESTION_3": "不同系统应该下载哪个客户端？",
+          "AI_FAQ_QUESTION_4": "一个订阅可以同时给多台设备使用吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "03398.cn",
+    "host": "03398.cn"
+  },
+  "file_hashes": {
+    "index.html": "49504caac7028282f1b52dad119898045dbfbeac65d9e3423f7a8b77ea41c4e8",
+    "sitemap.xml": "74ac7eca689d0f570ebaecb5099c2c857d1062712ba4f823eb9a903ac7d03d81",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "15ab8c3bedb86f5c4da1104ddd541d6bdeba66937e4b5495212d1659aa66bb27",
+    "robots.txt": "f1ee078c6821e0578779cb3f930ed075d6e19dc82d1da3d11b08f447d47544be",
+    "bc4a92b880b9096b61f824e756659929.txt": "b2b45a9eed12996ab74e731f80d8cd285790aa8a8c60b27798c4bc49ab1e4e19"
+  },
+  "revision": "995e2b73b2996bb9619e8547fdd0fbc3a955cdc0f766618de2d6383e79702387"
+}

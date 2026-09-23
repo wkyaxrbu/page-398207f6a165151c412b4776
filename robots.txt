@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://03398.cn/sitemap.xml
